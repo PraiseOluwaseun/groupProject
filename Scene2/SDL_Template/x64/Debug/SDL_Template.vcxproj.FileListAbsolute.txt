@@ -1,0 +1,4 @@
+C:\Users\EXAMS\Desktop\Tosin\SDL_Template\x64\Debug\SDL_Template.exe
+C:\Users\EXAMS\Documents\Computergraphics\Scene\SDL_Template\x64\Debug\SDL_Template.exe
+C:\Users\EXAMS\Desktop\Computergraphics\Scene2\SDL_Template\x64\Debug\SDL_Template.exe
+C:\Users\EXAMS\Downloads\Scene2\SDL_Template\x64\Debug\SDL_Template.exe
